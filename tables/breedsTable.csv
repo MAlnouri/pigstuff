@@ -1,0 +1,335 @@
+1	Mix
+2	Pug
+3	Ainu
+4	Lacy
+5	Manx
+6	Mudi
+7	Puli
+8	Akita
+9	Boxer
+10	Feist
+11	Hound
+12	Korat
+13	Akbash
+14	Angora
+15	Barbet
+16	Beagle
+17	Bengal
+18	Birman
+19	Bombay
+20	Borzoi
+21	Briard
+22	Canaan
+23	Cymric
+24	Kangal
+25	Kuvasz
+26	LaPerm
+27	Ocicat
+28	Saluki
+29	Somali
+30	Sphynx
+31	Toyger
+32	Basenji
+33	Bulldog
+34	Burmese
+35	Chausie
+36	Chinook
+37	Harrier
+38	Kai Ken
+39	Lowchen
+40	Maltese
+41	Mastiff
+42	Persian
+43	Pointer
+44	Ragdoll
+45	Samoyed
+46	Siamese
+47	Spaniel
+48	Terrier
+49	Tiffany
+50	Whippet
+51	Balinese
+52	Boerboel
+53	Brittany
+54	Eurasier
+55	Havanese
+56	Keeshond
+57	Komondor
+58	Landseer
+59	Munchkin
+60	Papillon
+61	Savannah
+62	Shepherd
+63	Shih Tzu
+64	Siberian
+65	Snowshoe
+66	Beauceron
+67	Bolognese
+68	Chartreux
+69	Chow Chow
+70	Coonhound
+71	Dalmatian
+72	Devon Rex
+73	Greyhound
+74	Himalayan
+75	Miniature
+76	Pekingese
+77	Pixie-Bob
+78	Retriever
+79	Shiba Inu
+80	Singapura
+81	Stabyhoun
+82	Tonkinese
+83	Abyssinian
+84	Bergamasco
+85	Bloodhound
+86	Cane Corso
+87	Great Dane
+88	Leonberger
+89	Lhasa Apso
+90	Maine Coon
+91	Otterhound
+92	Pomeranian
+93	RagaMuffin
+94	Rottweiler
+95	Schipperke
+96	Weimaraner
+97	Bullmastiff
+98	Cornish Rex
+99	Desert Lynx
+100	Plott Hound
+101	Poodle, Toy
+102	Pot-Bellied
+103	Turkish Van
+104	Afghan Hound
+105	Basset Hound
+106	Bichon Frise
+107	British Blue
+108	Carolina Dog
+109	Egyptian Mau
+110	German Spitz
+111	Ibizan Hound
+112	Korean Jindo
+113	Newfoundland
+114	Pudelpointer
+115	Russian Blue
+116	Terrier, Rat
+117	Affenpinscher
+118	Alaskan Husky
+119	American Curl
+120	Border Collie
+121	Collie, Rough
+122	Cur, Mountain
+123	Finnish Spitz
+124	Greenland Dog
+125	Japanese Chin
+126	Kooikerhondje
+127	Pharaoh Hound
+128	Primary Breed
+129	Saint Bernard
+130	Scottish Fold
+131	Setter, Irish
+132	Terrier, Bull
+133	Terrier, Skye
+134	Argentine Dogo
+135	Bearded Collie
+136	Collie, Smooth
+137	Dutch Shepherd
+138	Great Pyrenees
+139	Japanese Spitz
+140	Setter, Gordon
+141	Siberian Husky
+142	Spaniel, Field
+143	Terrier, Cairn
+144	Terrier, Irish
+145	Terrier, Silky
+146	Terrier, Welsh
+147	Thai Ridgeback
+148	Turkish Angora
+149	Xoloitzcuintli
+150	American Eskimo
+151	Asian Shorthair
+152	Bracco Italiano
+153	Bulldog, French
+154	Canadian Eskimo
+155	Chinese Crested
+156	Coton de Tulear
+157	Dutch Smoushond
+158	English Mastiff
+159	German Pinscher
+160	German Shepherd
+161	Irish Wolfhound
+162	Podenco Canario
+163	Podenco Gallego
+164	Setter, English
+165	Shiloh Shepherd
+166	Spaniel, Boykin
+167	Spaniel, French
+168	Terrier, Border
+169	Terrier, Boston
+170	Tibetan Mastiff
+171	Alaskan Klee Kai
+172	Alaskan Malamute
+173	American Bobtail
+174	Belgian Malinois
+175	Belgian Sheepdog
+176	Belgian Tervuren
+177	Brittany, French
+178	Bulldog, English
+179	Chinese Domestic
+180	Chinese Shar-Pei
+181	Cur, Black-Mouth
+182	English Shepherd
+183	Exotic Shorthair
+184	Finnish Lapphund
+185	Japanese Bobtail
+186	Maremma Sheepdog
+187	Mexican Hairless
+188	Norwegian Buhund
+189	Norwegian Forest
+190	Picardy Sheepdog
+191	Poodle, Standard
+192	Saarloos Wolfdog
+193	Schnauzer, Giant
+194	Silken Windhound
+195	Spaniel, Clumber
+196	Spaniel, Tibetan
+197	Spinone Italiano
+198	Swedish Elkhound
+199	Swedish Vallhund
+200	Terrier, Norfolk
+201	Terrier, Norwich
+202	Terrier, Russell
+203	Terrier, Tibetan
+204	American Wirehair
+205	Australian Kelpie
+206	Azores Cattle Dog
+207	British Shorthair
+208	Bulldog, American
+209	Cirneco dell Etna
+210	Doberman Pinscher
+211	Dogue de Bordeaux
+212	Domestic Longhair
+213	Foxhound, English
+214	Griffon, Brussels
+215	Italian Greyhound
+216	Karelian Bear Dog
+217	Lagotto Romagnolo
+218	McNab Herding Dog
+219	Poodle, Miniature
+220	Pyrenean Shepherd
+221	Retriever, Golden
+222	Shetland Sheepdog
+223	Spanish Water Dog
+224	Terrier, Airedale
+225	Terrier, Fox, Toy
+226	Terrier, Lakeland
+227	Terrier, Pit Bull
+228	Terrier, Scottish
+229	Terrier, Sealyham
+230	American Shorthair
+231	Anatolian Shepherd
+232	Coonhound, Redbone
+233	Domestic Shorthair
+234	European Shorthair
+235	Foxhound, American
+236	Icelandic Sheepdog
+237	Miniature Pinscher
+238	Neapolitan Mastiff
+239	Norwegian Elkhound
+240	Oriental Long Hair
+241	Oriental Shorthair
+242	Portuguese Podengo
+243	Terrier, Brazilian
+244	Terrier, Fox, Wire
+245	Terrier, Yorkshire
+246	Australian Shepherd
+247	California Spangled
+248	Coonhound, Bluetick
+249	Deerhound, Scottish
+250	Munsterlander,Small
+251	Norwegian Lundehund
+252	Retriever, Labrador
+253	Rhodesian Ridgeback
+254	Schnauzer, Standard
+255	Terrier, Australian
+256	Terrier, Bedlington
+257	Terrier, Kerry Blue
+258	Terrier, Manchester
+259	Terrier, Patterdale
+260	Vizsla, Wire Haired
+261	American Blue Heeler
+262	Bernese Mountain Dog
+263	Bouvier des Flandres
+264	Chihuahua, Long Coat
+265	Domestic Medium Hair
+266	Munsterlander, Large
+267	Old English Sheepdog
+268	Peruvian Inca Orchid
+269	Portuguese Water Dog
+270	Schnauzer, Miniature
+271	Spaniel, English Toy
+272	Spaniel, Irish Water
+273	Terrier, Fox, Smooth
+274	Australian Cattle Dog
+275	Catahoula Leopard dog
+276	Chihuahua, Short Coat
+277	Colourpoint Shorthair
+278	German Shepherd, King
+279	Terrier, Jack Russell
+280	Vizsla, Smooth Haired
+281	Welsh Corgi, Cardigan
+282	Welsh Corgi, Pembroke
+283	Caucasian Mountain Dog
+284	Olde English Bulldogge
+285	Retriever, Flat-Coated
+286	Terrier, Black Russian
+287	Terrier, Glen of Imaal
+288	American White Shepherd
+289	Appenzeller Sennenhunde
+290	Polish Lowland Sheepdog
+291	Retriever, Curly Coated
+292	Spaniel, American Water
+293	Spaniel, English Cocker
+294	Spaniel, Welsh Springer
+295	Terrier, Dandie Dinmont
+296	Terrier, Miniature Bull
+297	Terrier, Parson Russell
+298	Braque Francais Pyrenees
+299	Coonhound, Black and Tan
+300	Entlebucher Mountain Dog
+301	Spaniel, American Cocker
+302	Coonhound, Treeing Walker
+303	Retriever, Chesapeake Bay
+304	Spaniel, English Springer
+305	Treeing Tennessee Brindle
+306	Alapaha Blue Blood Bulldog
+307	Central Asian Shepherd Dog
+308	Greater Swiss Mountain Dog
+309	Pointer, German Wirehaired
+310	Terrier, American Hairless
+311	Terrier, American Pit Bull
+312	Coonhound, American English
+313	Pointer, German Shorthaired
+314	Terrier, Staffordshire Bull
+315	Griffon, Wirehaired Pointing
+316	Terrier, Soft Coated Wheaten
+317	Terrier, West Highland White
+318	Griffon Vendeen, Grand Basset
+319	Griffon Vendeen, Petit Basset
+320	Australian Shepherd, Miniature
+321	Spaniel, Cavalier King Charles
+322	Terrier, American Crested Sand
+323	Terrier, English Staffordshire
+324	Dachshund, Standard Long Haired
+325	Dachshund, Standard Wire Haired
+326	Terrier, American Staffordshire
+327	Dachshund, Miniature Long Haired
+328	Dachshund, Miniature Wire Haired
+329	Dachshund, Standard Smooth Haired
+330	Dachshund, Miniature Smooth Haired
+331	Retriever, Nova Scotia Duck Tolling
+332	White Swiss Shepherd (Berger Blanc Suisse)
+333	Mixed Breed, Large (over 44 lbs fully grown)
+334	Mixed Breed, Small (under 24 lbs fully grown)
+335	Mixed Breed, Medium (up to 44 lbs fully grown)
