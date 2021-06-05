@@ -350,7 +350,9 @@ END);
 --removes header names
 C = FILTER B BY License_Number != 'License Number';
 
-STORE C INTO 'outputPets';
+D = RANK C;
+
+STORE D INTO 'outputPets';
 
 
-DUMP C;
+DUMP D;
